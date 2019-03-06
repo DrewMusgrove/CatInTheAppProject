@@ -5,4 +5,4 @@ All back end development was done myself, this was the first time I have used a 
 
 The packages folder isn\'92t included, hopefully when running the application via Visual Studio these should automatically be download. I can send these over if needed.}
 
-Testing needs to be done reharding the rating css, seems to be working okay on Macbook Pro 2015 Google Chrome however on Windows 10 Machine Google chrome, positioning seems to be off.
+Testing needs to be done regarding the rating css, seems to be working okay on Macbook Pro 2015 Google Chrome however on Windows 10 Machine Google chrome, positioning seems to be off.
